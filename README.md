@@ -5,4 +5,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneeLucas&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneeLucas&show_icons=true&theme=dracula) <img align="right" alt="Coding" width="400" src="https://tenor.com/pt-BR/view/jotaro-kujo-jojos-bizarre-adventures-jjba-stardust-crusaders-knife-gif-17148913">
