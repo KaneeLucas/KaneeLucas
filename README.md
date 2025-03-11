@@ -5,5 +5,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneeLucas&show_icons=true&theme=dracula) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wvn4qpbdlceto55vyvdkcbgtj4)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneeLucas&show_icons=true&theme=dracula)        ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wvn4qpbdlceto55vyvdkcbgtj4)
 
