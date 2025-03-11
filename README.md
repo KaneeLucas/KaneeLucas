@@ -6,5 +6,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaneeLucas&show_icons=true&theme=dracula) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wvn4qpbdlceto55vyvdkcbgtj4)
